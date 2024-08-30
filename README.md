@@ -15,5 +15,16 @@
   <img width="675" alt="Screen Shot 2024-08-30 at 9 34 07 am" src="https://github.com/user-attachments/assets/12f93926-7262-4661-89a5-522e64870f8f">
 <p> this method only works if you don’t have any images in your html file. NOTE: you will have to select open with to open your website. to allow a web address to open it, you will need to host it onto a web server. getting your own server costs lots of money but if you search in „free web hosting” in your browser some companys will let you use their sever for free.</p>
   <img width="743" alt="Screen Shot 2024-08-30 at 9 35 08 am" src="https://github.com/user-attachments/assets/fb261b87-ca06-4d59-a077-555497d9be72">
+  <h3>now for using GITHUB</h3>
+  <p>github is a powerful website, with iand a few other websites such as CrazyDomains and CloudFlare, you can launch a whole website into the intrnet, you use CrazyDomains for buying a domain (they cost a few dollars, sometimes lots) CloudFlare for launching your website to the intrnet, and github for the rest</p>
+  <p>so the first thing were gonna do in github is upload our textedit file, and after you've done that, look in the code, see if it is looking like code, if not, you have to write the code yourself, if it is, go to the preview section and keep editing it until the preview section looks like your textedit file</p>
+  <p>and </p> 
+  <h1>congratilations</h1>
+  <p>you have the thing to upload, the main thing</p>
+   <p>bye</p>
+  <p>one extra thing, a picture of the process<p>
+  <p>it:</p>
+  <img width="612" alt="Screen Shot 2024-08-30 at 12 33 47 pm" src="https://github.com/user-attachments/assets/aecf106b-fe58-4447-89a4-daaf3d8da992">
 </body>
 </html>
+
